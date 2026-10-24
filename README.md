@@ -5,7 +5,10 @@
 **Kelas:** Prak.Desain Web A (SE)
 
 ## Ringkasan
-Perancangan antarmuka landing page **DEVELOPY**, jasa pembuatan website, melalui tiga tahap: wireframe, mini design system, dan mockup final dalam versi desktop dan mobile.
+Perancangan antarmuka landing page **DEVELOPY**, jasa pembuatan website, melalui tiga tahap: 
+- **wireframe**
+- **mini design system**
+- dan **mockup final** dalam versi desktop dan mobile.
 
 ## 1. Wireframe
 - **Perubahan:** Struktur halaman disusun low fidelity: header, navbar, sidebar, banner, empat kartu layanan, dan footer.
@@ -21,3 +24,6 @@ Perancangan antarmuka landing page **DEVELOPY**, jasa pembuatan website, melalui
 - **Perubahan:** Placeholder gambar diganti ilustrasi, navbar diberi penanda aktif, kartu memuat kategori, deskripsi, dan tautan "Pelajari layanan", serta footer berisi kontak.
 - **Masalah:** Empat kartu sejajar tidak muat pada layar kecil.
 - **Solusi:** Layout berubah dari empat kolom menjadi satu kolom pada mobile (390 px), sedangkan desktop memakai lebar 1440 px.
+
+## Pembagian Peran
+Tugas ini dikerjakan secara Individu (bukan kelompok)
